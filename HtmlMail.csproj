@@ -8,6 +8,9 @@
     <Authors>Isaías Vasconcelos</Authors>
     <Description>simple library to generate custom html template for emails</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/Isaias-Vasconcelos/html-template-mail</RepositoryUrl>
+    <PackageId>HtmlMail.TemplateEngine</PackageId>
+    <Product>HtmlMail.TemplateEngine</Product>
   </PropertyGroup>
 
   <ItemGroup>
