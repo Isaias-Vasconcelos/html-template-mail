@@ -1,7 +1,7 @@
 
 # 📄 HtmlMail Template Engine (.NET)
 
-Uma pequena biblioteca para gerar **templates HTML** com interpolação de C# diretamente no HTML, sem depender de Razor.
+Uma pequena biblioteca para gerar **templates HTML** com interpolação de C# diretamente no HTML.
 
 ## ✅ Funcionalidades
 
