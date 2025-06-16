@@ -26,7 +26,7 @@ No seu projeto:
 
 ```bash
 dotnet add package Microsoft.CodeAnalysis.CSharp.Scripting
-dotnet add package HtmlMail.TemplateEngine --version 1.0.0
+dotnet add package HtmlMail.TemplateEngine
 ```
 
 ---
