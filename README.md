@@ -20,11 +20,13 @@ Uma pequena biblioteca para gerar **templates HTML** com interpolação de C# di
 A biblioteca depende de:
 
 - `Microsoft.CodeAnalysis.CSharp.Scripting`
+- `HtmlMail.TemplateEngine`
 
 No seu projeto:
 
 ```bash
 dotnet add package Microsoft.CodeAnalysis.CSharp.Scripting
+dotnet add package HtmlMail.TemplateEngine --version 1.0.0
 ```
 
 ---
