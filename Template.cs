@@ -163,7 +163,7 @@ namespace HtmlMail
         }
     }
 
-    internal class Globals<T>
+    public class Globals<T>
     {
         public T Model { get; set; } = default!;
     }
