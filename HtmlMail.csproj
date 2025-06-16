@@ -11,7 +11,7 @@
     <RepositoryUrl>https://github.com/Isaias-Vasconcelos/html-template-mail</RepositoryUrl>
     <PackageId>HtmlMail.TemplateEngine</PackageId>
     <Product>HtmlMail.TemplateEngine</Product>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
   </PropertyGroup>
 
   <ItemGroup>
